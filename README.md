@@ -7,4 +7,4 @@
 
 - Шизоид
 - Анскилл
-- <a href="https://github.com/frct1/frct1/edit/master/README.md">Добавить своё</a>
+- <a href="https://github.com/frct1/frct1/edit/master/README.md">Добавить своё ✏️</a>
