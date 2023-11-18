@@ -1,2 +1,2 @@
-- [*ib.systems*](https://t.me/tungstenfabric_ru)
+- [*ib.systems*](https://ib.systems)
 - [Tungsten Fabric community](https://t.me/tungstenfabric_ru)
